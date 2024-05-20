@@ -26,7 +26,7 @@ export default function ConnectButton() {
     return (
         <>
 
-          { chainId != 97 && <div className='w-full px-[1rem] py-[1rem] text-[1.5rem] font-bold text-white bg-[red]'>Please connect to binance Testnet</div>}
+          {/* { chainId != 97 && <div className='w-full px-[1rem] py-[1rem] text-[1.5rem] font-bold text-white bg-[red]'>Please connect to binance Testnet</div>} */}
 
             <div className='mt-[1rem] space-x-[1rem] mx-[1rem]'>
 
